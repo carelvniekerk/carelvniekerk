@@ -49,11 +49,13 @@ I am a Postdoctoral Researcher at Heinrich Heine University, Düsseldorf, specia
 
 </div>
 
-## Languages
+## 🌍 Languages
 
 <div align="center">
 
-🇬🇧 English (Native) &nbsp;&nbsp; 🇿🇦 Afrikaans (Native) &nbsp;&nbsp; 🇩🇪 German (Fluent)
+![](https://img.shields.io/badge/🇬🇧_English-Native-informational?style=flat&color=white)
+![](https://img.shields.io/badge/🇿🇦_Afrikaans-Native-informational?style=flat&color=white)
+![](https://img.shields.io/badge/🇩🇪_German-Fluent-informational?style=flat&color=white)
 
 </div>
 
