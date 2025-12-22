@@ -12,9 +12,8 @@
 
 </div>
 
-## 👋 About Me
-
-I am a Postdoctoral Researcher at Heinrich Heine University, Düsseldorf, specializing in uncertainty estimation in Large Language Models (LLMs) as part of the Lamarr Fellow Network Ramp Up project under Prof. Milica Gašić. With a PhD and 10 years of experience spanning academia and industry, I focus on machine learning, NLP, LLMs, and dialogue systems. I have published at venues like EMNLP, ACL, NeurIPS and IEEE, and have deployed real-world genAI applications including AI agents on Google Cloud Platform. My research centers on reinforcement learning for LLM fine-tuning, trustworthy AI, and building smarter, more reliable conversational systems.
+## Hi there 👋
+I am a Research Scientist/Engineer specialising in Reinforcement Learning (RL) Post-training, LLM Alignment, and Uncertainty Quantification. Currently, I am a Postdoctoral Researcher at Heinrich Heine University, Düsseldorf. I have over 10 years of experience across academia, recently completing my PhD (magna cum laude) with a focus on uncertainty-aware decision-making. My goal is to build trustworthy, scalable, and agentic AI systems.
 
 ## 🎯 Interests
 
