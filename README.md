@@ -13,13 +13,14 @@
 </div>
 
 ## Hi there 👋
-I am a Research Scientist/Engineer specialising in Reinforcement Learning (RL) Post-training, LLM Alignment, and Uncertainty Quantification. Currently, I am a Postdoctoral Researcher at Heinrich Heine University, Düsseldorf. I have over 10 years of experience across academia, recently completing my PhD (magna cum laude) with a focus on uncertainty-aware decision-making. My goal is to build trustworthy, scalable, and agentic AI systems.
+I am a Data & AI Strategist at MultiplAI, helping organisations turn Data & AI investment into trustworthy, production-grade systems. My background is in Reinforcement Learning (RL) Post-training, LLM Alignment, and Uncertainty Quantification — I have over 10 years of experience across academia and industry, including a PhD (magna cum laude) focused on uncertainty-aware decision-making. My goal is to help build trustworthy, scalable, and agentic AI systems.
 
 ## 🎯 Interests
 
 -   Reinforcement Learning for LLMs and Agentic LLMs: using intrinsic reward via model confidence for improved performance, calibration and reliability.
 -   Uncertainty in Large Language Models: techniques for estimating and mitigating uncertainty to enhance model trustworthiness and decision-making.
 -   Agentic LLMs: development of autonomous AI agents leveraging LLM capabilities for complex task execution.
+-   Knowledge Graphs & Ontology Construction: LLM-driven knowledge graph construction and reasoning, grounded in schema/ontology modelling (RDF/OWL).
 -   Dialogue Systems & NLP: ConvLab 3 toolkit, unified data formats, state tracking, production-ready pipelines.
 
 ## 🛠 Tech Stack
@@ -36,7 +37,7 @@ I am a Research Scientist/Engineer specialising in Reinforcement Learning (RL) P
 ![](https://img.shields.io/badge/Platform-Linux_HPC-informational?style=flat&logo=linux&logoColor=white&color=AD86ED)
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=AD86ED)
 ![](https://img.shields.io/badge/Tools-CUDA-informational?style=flat&logo=nvidia&logoColor=white&color=AD86ED)
-![](https://img.shields.io/badge/Framework-LangChain-informational?style=flat&logo=langchain&logoColor=white&color=AD86ED)
+![](https://img.shields.io/badge/Framework-LangGraph-informational?style=flat&logo=langgraph&logoColor=white&color=AD86ED)
 ![](<https://img.shields.io/badge/Tools-Hugging_Face_(Transformers,_TRL,_Accelerate)-informational?style=flat&logo=huggingface&logoColor=white&color=AD86ED>)
 ![](https://img.shields.io/badge/API-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=AD86ED)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=AD86ED)
@@ -68,4 +69,4 @@ I am a Research Scientist/Engineer specialising in Reinforcement Learning (RL) P
 -   [**RLSF-LLM**](https://arxiv.org/abs/2507.21931): Self-supervised RL post-training pipelines for LLMs, using intrinsic confidence-based rewards.
 -   [**ConvLab 3**](https://github.com/ConvLab/ConvLab-3): Unified data format, improved state-tracking and Reinforcement learning tools.
 
-_Last updated: 2025-11-10_
+_Last updated: 2026-07-03_
