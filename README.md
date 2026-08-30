@@ -13,13 +13,13 @@
 </div>
 
 ## Hi there 👋
-I am a Data & AI Strategist at MultiplAI, helping organisations turn Data & AI investment into trustworthy, production-grade systems. My background is in Reinforcement Learning (RL) Post-training, LLM Alignment, and Uncertainty Quantification — I have over 10 years of experience across academia and industry, including a PhD (magna cum laude) focused on uncertainty-aware decision-making. My goal is to help build trustworthy, scalable, and agentic AI systems.
+I am a Data & AI Strategist at MultiplAI, helping organisations turn Data & AI investment into trustworthy, production-grade systems. My background is in Reinforcement Learning (RL) Post-training, LLM Alignment and Uncertainty Quantification. I have over 10 years of experience across academia and industry, including a PhD (magna cum laude) focused on uncertainty-aware decision-making. My goal is to help build trustworthy, scalable and agentic AI systems.
 
 ## 🎯 Interests
 
 -   Reinforcement Learning for LLMs and Agentic LLMs: using intrinsic reward via model confidence for improved performance, calibration and reliability.
 -   Uncertainty in Large Language Models: techniques for estimating and mitigating uncertainty to enhance model trustworthiness and decision-making.
--   Agentic LLMs: development of autonomous AI agents leveraging LLM capabilities for complex task execution.
+-   Agentic LLMs: development of autonomous AI agents that use LLM capabilities for complex task execution.
 -   Knowledge Graphs & Ontology Construction: LLM-driven knowledge graph construction and reasoning, grounded in schema/ontology modelling (RDF/OWL).
 -   Dialogue Systems & NLP: ConvLab 3 toolkit, unified data formats, state tracking, production-ready pipelines.
 
