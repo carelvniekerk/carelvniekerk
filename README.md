@@ -13,15 +13,15 @@
 </div>
 
 ## Hi there 👋
-I am a Data & AI Strategist at MultiplAI, helping organisations turn Data & AI investment into trustworthy, production-grade systems. My background is in Reinforcement Learning (RL) Post-training, LLM Alignment and Uncertainty Quantification. I have over 10 years of experience across academia and industry, including a PhD (magna cum laude) focused on uncertainty-aware decision-making. My goal is to help build trustworthy, scalable and agentic AI systems.
+I am a Data & AI Strategist at MultiplAI, helping organisations turn Data & AI investment into trustworthy, production-grade systems, bridging rigorous research and pragmatic delivery. I hold a PhD (magna cum laude) in computer science from Heinrich Heine University Düsseldorf, where I also worked as a postdoctoral researcher on reinforcement learning post-training and LLM alignment. With 10+ years across academia and industry, my work reaches from publications at NeurIPS, ACL and EMNLP to the open-source tooling that made them possible.
 
 ## 🎯 Interests
 
--   Reinforcement Learning for LLMs and Agentic LLMs: using intrinsic reward via model confidence for improved performance, calibration and reliability.
--   Uncertainty in Large Language Models: techniques for estimating and mitigating uncertainty to enhance model trustworthiness and decision-making.
--   Agentic LLMs: development of autonomous AI agents that use LLM capabilities for complex task execution.
--   Knowledge Graphs & Ontology Construction: LLM-driven knowledge graph construction and reasoning, grounded in schema/ontology modelling (RDF/OWL).
--   Dialogue Systems & NLP: ConvLab 3 toolkit, unified data formats, state tracking, production-ready pipelines.
+-   Alignment-Oriented Post-Training: reinforcement learning methods for aligning large language models using intrinsic and self-supervised reward signals, reducing reliance on external human preference data.
+-   Agentic & Tool-Augmented Systems: reinforcement learning and multi-agent coordination for long-horizon decision making in agentic dialogue and tool-using systems.
+-   Knowledge Graphs & Structured Grounding: LLM-driven construction and traversal of knowledge graphs, from ontology induction on dialogue to natural-language-to-SPARQL/SQL query generation, extending uncertainty-aware methods to entity linking and schema-grounded reasoning.
+-   Uncertainty-Aware Reasoning: Bayesian and distributional methods for uncertainty estimation, calibration and robustness, applied to trustworthy and controllable AI systems.
+-   Scalable Research Infrastructure: reproducible, configurable and distributed training systems enabling rapid experimentation across HPC and cloud environments.
 
 ## 🛠 Tech Stack
 
@@ -66,7 +66,8 @@ I am a Data & AI Strategist at MultiplAI, helping organisations turn Data & AI i
 
 ## 📂 Notable Projects
 
--   [**RLSF-LLM**](https://arxiv.org/abs/2507.21931): Self-supervised RL post-training pipelines for LLMs, using intrinsic confidence-based rewards.
--   [**ConvLab 3**](https://github.com/ConvLab/ConvLab-3): Unified data format, improved state-tracking and Reinforcement learning tools.
+-   [**HydraXcel**](https://github.com/carelvniekerk/HydraXcel): Configuration-driven deep learning experiment launcher, unifying Hydra, Hugging Face Accelerate and the UV workflow across local, SLURM and SkyPilot backends.
+-   [**RLSF**](https://arxiv.org/abs/2507.21931): Reinforcement Learning from Self-Feedback, post-training that uses a model's own confidence as an intrinsic reward. PyTorch, TRL, Transformers.
+-   [**ConvLab 3**](https://github.com/ConvLab/ConvLab-3): Large-scale dialogue systems toolkit built with Tsinghua University and Microsoft Research, whose unified data format has been adopted in 30+ research papers.
 
-_Last updated: 2026-07-03_
+_Last updated: 2026-08-30_
