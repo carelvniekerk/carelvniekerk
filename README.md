@@ -70,4 +70,57 @@ I am a Data & AI Strategist at MultiplAI, helping organisations turn Data & AI i
 -   [**RLSF**](https://arxiv.org/abs/2507.21931): Reinforcement Learning from Self-Feedback, post-training that uses a model's own confidence as an intrinsic reward. PyTorch, TRL, Transformers.
 -   [**ConvLab 3**](https://github.com/ConvLab/ConvLab-3): Large-scale dialogue systems toolkit built with Tsinghua University and Microsoft Research, whose unified data format has been adopted in 30+ research papers.
 
-_Last updated: 2026-08-30_
+## 🔌 Claude Code Plugins
+
+Two plugin marketplaces for [Claude Code](https://claude.com/claude-code), eleven plugins between them.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 agentic-skills
+
+Workflow, research and code-quality plugins that share one rule: review gates before anything irreversible, and never a bypassed hook.
+
+**7 plugins · 14 skills · 4 agents · 3 hooks**
+
+![](https://img.shields.io/badge/git-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/debug-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/config-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/hf-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/langchain-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/research-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/python--quality-informational?style=flat&color=AD86ED)
+
+```bash
+claude plugin marketplace add carelvniekerk/agentic-skills
+```
+
+[**Browse the marketplace**](https://github.com/carelvniekerk/agentic-skills)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ okf-kb
+
+A knowledge base an agent maintains and you can still trust. Sources stay verbatim, the wiki is regenerated, and every claim traces back to the file it came from.
+
+**4 plugins · 12 skills · 1 Python package**
+
+![](https://img.shields.io/badge/kb-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/kb--ingest-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/kb--video-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/kb--capture-informational?style=flat&color=AD86ED)
+
+```bash
+claude plugin marketplace add carelvniekerk/okf-kb
+uv tool install "okf-kb[all] @ git+https://github.com/carelvniekerk/okf-kb"
+```
+
+[**Browse the marketplace**](https://github.com/carelvniekerk/okf-kb)
+
+</td>
+</tr>
+</table>
+
+_Last updated: 2026-09-08_
