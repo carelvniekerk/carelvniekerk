@@ -13,7 +13,9 @@
 </div>
 
 ## Hi there 👋
-I am a Data & AI Strategist at MultiplAI, helping organisations turn Data & AI investment into trustworthy, production-grade systems, bridging rigorous research and pragmatic delivery. I hold a PhD (magna cum laude) in computer science from Heinrich Heine University Düsseldorf, where I also worked as a postdoctoral researcher on reinforcement learning post-training and LLM alignment. With 10+ years across academia and industry, my work reaches from publications at NeurIPS, ACL and EMNLP to the open-source tooling that made them possible.
+I am a Senior AI Engineer at MULTIPLAI. My work with clients has two parts. The first is finding where AI can add value to a business. I then build agentic workflows for the strongest opportunities. The second starts from the AI and agentic tools a team already uses internally. I turn them into a structured, trustworthy MLOps workflow that the team can keep using.
+
+Trustworthiness is also what my research was about. I did my PhD (magna cum laude) in computer science at Heinrich Heine University Düsseldorf, where I also worked as a postdoctoral researcher. My work covered reinforcement learning post-training, LLM alignment, uncertainty quantification and hallucination reduction. More recently it has moved to knowledge graph grounding and agentic systems for trustworthy AI. Over more than ten years in academia and industry, I have published at NeurIPS, ACL and EMNLP. I also wrote the open-source tooling behind that work.
 
 ## 🎯 Interests
 
@@ -123,4 +125,4 @@ uv tool install "okf-kb[all] @ git+https://github.com/carelvniekerk/okf-kb"
 </tr>
 </table>
 
-_Last updated: 2026-09-08_
+_Last updated: 2026-10-08_
