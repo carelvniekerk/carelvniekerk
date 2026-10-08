@@ -63,7 +63,6 @@ Trustworthiness is also what my research was about. I did my PhD (magna cum laud
 
 ## 📚 Selected Publications
 
--   [_“Post-Training Large Language Models via Reinforcement Learning from Self-Feedback”_](https://arxiv.org/abs/2507.21931)
 -   [_“Less is More: Local Intrinsic Dimensions of Contextual Language Models”_](https://arxiv.org/abs/2506.01034)
 
 ## 📂 Notable Projects
