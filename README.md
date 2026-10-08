@@ -74,7 +74,7 @@ Trustworthiness is also what my research was about. I did my PhD (magna cum laud
 
 ## 🔌 Claude Code Plugins
 
-Two plugin marketplaces for [Claude Code](https://claude.com/claude-code), eleven plugins between them.
+Two plugin marketplaces for [Claude Code](https://claude.com/claude-code), 15 plugins between them.
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ Two plugin marketplaces for [Claude Code](https://claude.com/claude-code), eleve
 
 Workflow, research and code-quality plugins that share one rule: review gates before anything irreversible, and never a bypassed hook.
 
-**7 plugins · 14 skills · 4 agents · 3 hooks**
+**10 plugins · 17 skills · 4 agents · 5 hooks**
 
 ![](https://img.shields.io/badge/git-informational?style=flat&color=AD86ED)
 ![](https://img.shields.io/badge/debug-informational?style=flat&color=AD86ED)
@@ -93,6 +93,9 @@ Workflow, research and code-quality plugins that share one rule: review gates be
 ![](https://img.shields.io/badge/langchain-informational?style=flat&color=AD86ED)
 ![](https://img.shields.io/badge/research-informational?style=flat&color=AD86ED)
 ![](https://img.shields.io/badge/python--quality-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/chezmoi-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/uv-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/meta-informational?style=flat&color=AD86ED)
 
 ```bash
 claude plugin marketplace add carelvniekerk/agentic-skills
@@ -107,9 +110,10 @@ claude plugin marketplace add carelvniekerk/agentic-skills
 
 A knowledge base an agent maintains and you can still trust. Sources stay verbatim, the wiki is regenerated, and every claim traces back to the file it came from.
 
-**4 plugins · 12 skills · 1 Python package**
+**5 plugins · 12 skills · 1 hook · 1 Python package**
 
 ![](https://img.shields.io/badge/kb-informational?style=flat&color=AD86ED)
+![](https://img.shields.io/badge/kb--query-informational?style=flat&color=AD86ED)
 ![](https://img.shields.io/badge/kb--ingest-informational?style=flat&color=AD86ED)
 ![](https://img.shields.io/badge/kb--video-informational?style=flat&color=AD86ED)
 ![](https://img.shields.io/badge/kb--capture-informational?style=flat&color=AD86ED)
