@@ -68,7 +68,6 @@ Trustworthiness is also what my research was about. I did my PhD (magna cum laud
 ## 📂 Notable Projects
 
 -   [**HydraXcel**](https://github.com/carelvniekerk/HydraXcel): Configuration-driven deep learning experiment launcher, unifying Hydra, Hugging Face Accelerate and the UV workflow across local, SLURM and SkyPilot backends.
--   [**RLSF**](https://arxiv.org/abs/2507.21931): Reinforcement Learning from Self-Feedback, post-training that uses a model's own confidence as an intrinsic reward. PyTorch, TRL, Transformers.
 -   [**ConvLab 3**](https://github.com/ConvLab/ConvLab-3): Large-scale dialogue systems toolkit built with Tsinghua University and Microsoft Research, whose unified data format has been adopted in 30+ research papers.
 
 ## 🔌 Claude Code Plugins
